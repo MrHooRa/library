@@ -1,3 +1,9 @@
+#
+#   By Salman
+#   Github: https://github.com/MrHooRa/online-library-python/
+#   Email: salman.m.alessa@gmail.com
+#
+
 # DATABASE connector
 import mysql.connector
 import os
