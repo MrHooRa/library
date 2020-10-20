@@ -1,4 +1,4 @@
-# online-library-python
+# library
 
 You have to install
 * This script will work in python 3.5+
